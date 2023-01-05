@@ -3,7 +3,7 @@
 
 Computer Science student at UniGE (Universita' degli studi di Genova).
 
-Passionate about the "old fashioned way" of programming I refuse everithing that needs an IDE
+Passionate about the "old fashioned way" of programming, I refuse everything that needs an IDE
 to be written.
 
 I have been interested in Math and Computer Science since I can remember, in my spare time I'm now
