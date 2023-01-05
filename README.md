@@ -6,11 +6,11 @@ Computer Science student at UniGE (Universita' degli studi di Genova).
 Passionate about the "old fashioned way" of programming I refuse everithing that needs an IDE
 to be written.
 
-I have been interested in Math and Computer sience as long as I can remember, in my spare time I'm
+I have been interested in Math and Computer as long as I can remember, in my spare time I'm now
 developing my own Kernel (just for fun ;-) ).
 
 I'm a proud supporter of the Free Software Foundation and I have a picture of Richard Stallman on my 
-nightstand to protect me while I sleep.
+nightstand to protect me while I'm sleeping.
 
 ---
 
