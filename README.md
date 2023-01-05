@@ -6,7 +6,7 @@ Computer Science student at UniGE (Universita' degli studi di Genova).
 Passionate about the "old fashioned way" of programming I refuse everithing that needs an IDE
 to be written.
 
-I have been interested in Math and Computer as long as I can remember, in my spare time I'm now
+I have been interested in Math and Computer Science since I can remember, in my spare time I'm now
 developing my own Kernel (just for fun ;-) ).
 
 I'm a proud supporter of the Free Software Foundation and I have a picture of Richard Stallman on my 
@@ -18,7 +18,7 @@ nightstand to protect me while I'm sleeping.
 <center>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a>
     
-    Becouse life is too short to write OO Languages boilerplates.
+    Because life is too short to write OO Languages boilerplates.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
@@ -39,7 +39,6 @@ nightstand to protect me while I'm sleeping.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </center>
